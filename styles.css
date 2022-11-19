@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+
+ol {
+    width: 10000px;
+    display: inline-block;
+}
+
+body {
+    margin: 8px;
+    padding: 100px;
+    color: black;
+    display: block;
+    background-color: pink;
+    width: 200px;
+    
+}
+
+p.funParagraph {
+    color: green;
+}
+#testP{
+    color: green;
+}
+
+#mainHeading {
+  color: red;
+}
+
